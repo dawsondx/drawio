@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 QuarkPC/4.2.0.417" version="28.0.1">
+  <diagram name="第 1 页" id="istzvEJ4sVumLSiHZ-qF">
+    <mxGraphModel dx="1066" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="20" width="240" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-14" value="需求确认：&#xa;▶ 接收客户需求&#xa;▶ 提出采购申请&#xa;▶ 确认品牌、型号、数量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sAFDfCQgVLZ7CoQjvVTm-24">
+          <mxGeometry width="240" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-15" value="报价评估：&#xa;▶ 转交项目管理部&#xa;▶ 多方比价提供报价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sAFDfCQgVLZ7CoQjvVTm-24">
+          <mxGeometry y="123.78999999999999" width="240" height="71.74" as="geometry" />
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-16" value="审批流程：&#xa;▶ 企业微信提交采购审批&#xa;▶ 路径：工作台-审批-备品备件采购" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sAFDfCQgVLZ7CoQjvVTm-24">
+          <mxGeometry y="230.69" width="240" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-17" value="采购执行：&#xa;▶ 通过审批后启动采购&#xa;▶ 周期：普通件3-5天/紧急件24小时" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sAFDfCQgVLZ7CoQjvVTm-24">
+          <mxGeometry y="354.48" width="240" height="88.62" as="geometry" />
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-18" value="到货后处理：&#xa;▶ 现场安装调试&#xa;▶ 技术经理签字确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="sAFDfCQgVLZ7CoQjvVTm-24">
+          <mxGeometry y="478.26" width="240" height="71.74" as="geometry" />
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="sAFDfCQgVLZ7CoQjvVTm-24" source="sAFDfCQgVLZ7CoQjvVTm-14" target="sAFDfCQgVLZ7CoQjvVTm-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="sAFDfCQgVLZ7CoQjvVTm-24" source="sAFDfCQgVLZ7CoQjvVTm-15" target="sAFDfCQgVLZ7CoQjvVTm-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="sAFDfCQgVLZ7CoQjvVTm-24" source="sAFDfCQgVLZ7CoQjvVTm-16" target="sAFDfCQgVLZ7CoQjvVTm-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAFDfCQgVLZ7CoQjvVTm-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="sAFDfCQgVLZ7CoQjvVTm-24" source="sAFDfCQgVLZ7CoQjvVTm-17" target="sAFDfCQgVLZ7CoQjvVTm-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
