@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 QuarkPC/4.2.0.417" version="28.0.1">
+  <diagram name="第 1 页" id="DkVUjxyXaetJG-EwZSZG">
+    <mxGraphModel dx="1523" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tQCaovP8H4da3GkIkPGw-46" value="指令接收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="339" y="140" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-47" value="接收内容：&#xa;▶ 紧急迫降指令&#xa;▶ 停止施工指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="244" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-48" value="下达指令：&#xa;▶ 紧急撤离" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="244" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-49" value="人员撤离：&#xa;▶ 按路线撤离&#xa;▶ 10分钟集合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-50" value="物资处理：&#xa;▶ 设备收拢&#xa;▶ 设警示标志" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="380" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-51" value="现场警戒：&#xa;▶ 设警戒带&#xa;▶ 保持联络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="321" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-52" value="恢复施工：&#xa;▶ 设备检查&#xa;▶ 安全确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="321" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tQCaovP8H4da3GkIkPGw-46" target="tQCaovP8H4da3GkIkPGw-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tQCaovP8H4da3GkIkPGw-46" target="tQCaovP8H4da3GkIkPGw-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tQCaovP8H4da3GkIkPGw-47" target="tQCaovP8H4da3GkIkPGw-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tQCaovP8H4da3GkIkPGw-48" target="tQCaovP8H4da3GkIkPGw-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.01;entryY=0;rounded=0;" edge="1" parent="1" source="tQCaovP8H4da3GkIkPGw-49" target="tQCaovP8H4da3GkIkPGw-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="297" y="523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0;rounded=0;" edge="1" parent="1" source="tQCaovP8H4da3GkIkPGw-50" target="tQCaovP8H4da3GkIkPGw-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQCaovP8H4da3GkIkPGw-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tQCaovP8H4da3GkIkPGw-51" target="tQCaovP8H4da3GkIkPGw-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
