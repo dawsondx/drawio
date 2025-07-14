@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 QuarkPC/4.2.0.418" version="28.0.1">
+  <diagram name="第 1 页" id="vEYNeOKK4sMveoLUZ1f7">
+    <mxGraphModel dx="1066" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="20" width="260" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-1" value="项目启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry x="68" width="124" height="29.61608775137112" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-2" value="需求确认（与甲方对接，明确工程内容、时间要求、技术标准）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry y="57.03839122486289" width="260" height="55.94149908592321" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-3" value="方案编制（结合机场规范，制定施工方案、安全方案、应急方案）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry y="140.4021937842779" width="260" height="55.94149908592321" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-4" value="方案审批（内部技术评审+甲方确认）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry y="223.76599634369285" width="260" height="42.77879341864717" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-5" value="施工准备（人员进场、材料设备验收、技术交底、安全培训）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry y="293.96709323583184" width="260" height="55.94149908592321" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-6" value="现场施工（严格按照方案进行管线铺设、设备安装、接线调试，做好过程记录）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry y="377.3308957952468" width="260" height="55.94149908592321" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-7" value="调试测试（单机测试→系统联调→性能测试，出具测试报告）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry y="460.69469835466185" width="260" height="55.94149908592321" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-8" value="验收交付（自检合格后提交甲方验收，移交竣工资料、操作手册）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="iCRVk4PRZ-FlyjRP3MTo-16">
+          <mxGeometry y="544.0585009140768" width="260" height="55.94149908592321" as="geometry" />
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="iCRVk4PRZ-FlyjRP3MTo-16" source="iCRVk4PRZ-FlyjRP3MTo-1" target="iCRVk4PRZ-FlyjRP3MTo-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="iCRVk4PRZ-FlyjRP3MTo-16" source="iCRVk4PRZ-FlyjRP3MTo-2" target="iCRVk4PRZ-FlyjRP3MTo-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="iCRVk4PRZ-FlyjRP3MTo-16" source="iCRVk4PRZ-FlyjRP3MTo-3" target="iCRVk4PRZ-FlyjRP3MTo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="iCRVk4PRZ-FlyjRP3MTo-16" source="iCRVk4PRZ-FlyjRP3MTo-4" target="iCRVk4PRZ-FlyjRP3MTo-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="iCRVk4PRZ-FlyjRP3MTo-16" source="iCRVk4PRZ-FlyjRP3MTo-5" target="iCRVk4PRZ-FlyjRP3MTo-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="iCRVk4PRZ-FlyjRP3MTo-16" source="iCRVk4PRZ-FlyjRP3MTo-6" target="iCRVk4PRZ-FlyjRP3MTo-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCRVk4PRZ-FlyjRP3MTo-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="iCRVk4PRZ-FlyjRP3MTo-16" source="iCRVk4PRZ-FlyjRP3MTo-7" target="iCRVk4PRZ-FlyjRP3MTo-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
